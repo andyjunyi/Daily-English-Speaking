@@ -1,0 +1,745 @@
+{
+  "meta": {
+    "title": "道地英語口語短句",
+    "description": "情境對話・實用表達・開口就用",
+    "version": "1.0.0",
+    "lastUpdated": "2026-05-23"
+  },
+  "categories": [
+    {
+      "id": "arrogance",
+      "title": "別自以為是",
+      "subtitle": "別太把自己當回事",
+      "phrases": [
+        {
+          "id": "arrogance-01",
+          "en": "Get over yourself.",
+          "zh": "別太把自己當回事。",
+          "tags": [
+            "嗆人",
+            "日常"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "arrogance-02",
+          "en": "The world doesn't revolve around you.",
+          "zh": "別太自私。",
+          "tags": [
+            "嗆人",
+            "日常"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "arrogance-03",
+          "en": "Don't flatter yourself.",
+          "zh": "別自以為是。",
+          "tags": [
+            "嗆人",
+            "日常"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "arrogance-04",
+          "en": "Who do you think you are?",
+          "zh": "你算老幾？",
+          "tags": [
+            "嗆人",
+            "憤怒"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "arrogance-05",
+          "en": "Where do you get off?",
+          "zh": "你哪來的臉皮？你哪來的膽子？",
+          "tags": [
+            "嗆人",
+            "憤怒"
+          ],
+          "level": "advanced"
+        },
+        {
+          "id": "arrogance-06",
+          "en": "You think you're all that.",
+          "zh": "你以為你很行？",
+          "tags": [
+            "嗆人",
+            "諷刺"
+          ],
+          "level": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": "give-up",
+      "title": "算了",
+      "subtitle": "別說了 / 到此為止",
+      "phrases": [
+        {
+          "id": "give-up-01",
+          "en": "Forget it!",
+          "zh": "算了，別說了。",
+          "tags": [
+            "情緒",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "give-up-02",
+          "en": "Drop it!",
+          "zh": "別說了。",
+          "tags": [
+            "情緒",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "give-up-03",
+          "en": "Call it a day.",
+          "zh": "到此為止。",
+          "tags": [
+            "日常",
+            "工作"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "give-up-04",
+          "en": "Never mind.",
+          "zh": "沒關係。",
+          "tags": [
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "give-up-05",
+          "en": "Let it go.",
+          "zh": "別糾結了。",
+          "tags": [
+            "情緒",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "give-up-06",
+          "en": "It's not worth it.",
+          "zh": "算了。",
+          "tags": [
+            "情緒",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "give-up-07",
+          "en": "Forget about it.",
+          "zh": "沒事的。",
+          "tags": [
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "give-up-08",
+          "en": "Don't worry about it.",
+          "zh": "沒關係，別放在心上。",
+          "tags": [
+            "日常",
+            "安慰"
+          ],
+          "level": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "appreciation",
+      "title": "辛苦了",
+      "subtitle": "感謝對方的努力",
+      "phrases": [
+        {
+          "id": "appreciation-01",
+          "en": "You've had a long day.",
+          "zh": "你今天辛苦了。",
+          "tags": [
+            "關心",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "appreciation-02",
+          "en": "Thank you for your hard work.",
+          "zh": "謝謝你的努力。",
+          "tags": [
+            "感謝",
+            "工作"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "appreciation-03",
+          "en": "Thank you so much for your hard work.",
+          "zh": "真的非常謝謝你的努力。",
+          "tags": [
+            "感謝",
+            "工作"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "appreciation-04",
+          "en": "I want to thank you all for your hard work today.",
+          "zh": "感謝大家今天的辛苦付出。",
+          "tags": [
+            "感謝",
+            "工作",
+            "正式"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "appreciation-05",
+          "en": "I appreciate the hustle.",
+          "zh": "感謝你的拼勁。",
+          "tags": [
+            "感謝",
+            "口語"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "appreciation-06",
+          "en": "Much appreciated.",
+          "zh": "非常感謝。",
+          "tags": [
+            "感謝",
+            "日常"
+          ],
+          "level": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "hurt",
+      "title": "扎心",
+      "subtitle": "傷到我了",
+      "phrases": [
+        {
+          "id": "hurt-01",
+          "en": "That's too harsh.",
+          "zh": "太狠了。",
+          "tags": [
+            "情緒",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "hurt-02",
+          "en": "That's too/so mean.",
+          "zh": "你真壞。",
+          "tags": [
+            "情緒",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "hurt-03",
+          "en": "That hurts.",
+          "zh": "好痛。",
+          "tags": [
+            "情緒",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "hurt-04",
+          "en": "That hurts my feelings.",
+          "zh": "傷我心了。",
+          "tags": [
+            "情緒",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "hurt-05",
+          "en": "That stings (a bit).",
+          "zh": "有點刺。",
+          "tags": [
+            "情緒",
+            "日常"
+          ],
+          "level": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": "why-bother",
+      "title": "何必呢",
+      "subtitle": "圖什麼",
+      "phrases": [
+        {
+          "id": "why-bother-01",
+          "en": "Why bother?",
+          "zh": "何必呢？",
+          "tags": [
+            "質疑",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "why-bother-02",
+          "en": "What's in it for you?",
+          "zh": "圖啥呢？",
+          "tags": [
+            "質疑",
+            "日常"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "why-bother-03",
+          "en": "To what end?",
+          "zh": "圖什麼結果呢？",
+          "tags": [
+            "質疑",
+            "正式"
+          ],
+          "level": "advanced"
+        }
+      ]
+    },
+    {
+      "id": "take-over",
+      "title": "我來",
+      "subtitle": "交給我",
+      "phrases": [
+        {
+          "id": "take-over-01",
+          "en": "I'll take it from here.",
+          "zh": "你去吧，我來做！",
+          "tags": [
+            "日常",
+            "工作"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "take-over-02",
+          "en": "I've got this.",
+          "zh": "我來就行。",
+          "tags": [
+            "日常",
+            "自信"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "take-over-03",
+          "en": "Leave it with me.",
+          "zh": "交給我吧！",
+          "tags": [
+            "日常",
+            "工作"
+          ],
+          "level": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "challenge",
+      "title": "誰怕誰",
+      "subtitle": "放馬過來",
+      "phrases": [
+        {
+          "id": "challenge-01",
+          "en": "Try me!",
+          "zh": "誰怕誰！",
+          "tags": [
+            "嗆人",
+            "挑釁"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "challenge-02",
+          "en": "Name the time and place.",
+          "zh": "說時間地點！",
+          "tags": [
+            "嗆人",
+            "挑釁"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "challenge-03",
+          "en": "Bring it on!",
+          "zh": "放馬過來！",
+          "tags": [
+            "嗆人",
+            "挑釁"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "challenge-04",
+          "en": "Let's see you try!",
+          "zh": "那你來！",
+          "tags": [
+            "嗆人",
+            "挑釁"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "challenge-05",
+          "en": "Not on my watch!",
+          "zh": "門都沒有。",
+          "tags": [
+            "拒絕",
+            "強硬"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "challenge-06",
+          "en": "Hard pass!",
+          "zh": "想都別想！下輩子吧！",
+          "tags": [
+            "拒絕",
+            "口語"
+          ],
+          "level": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "take-back",
+      "title": "當我沒說",
+      "subtitle": "收回剛才的話",
+      "phrases": [
+        {
+          "id": "take-back-01",
+          "en": "Scratch that.",
+          "zh": "當我沒說。",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "take-back-02",
+          "en": "Forget I said anything.",
+          "zh": "當我什麼都沒說。",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "take-back-03",
+          "en": "Never mind.",
+          "zh": "算了。",
+          "tags": [
+            "日常"
+          ],
+          "level": "beginner"
+        }
+      ]
+    },
+    {
+      "id": "timing",
+      "title": "巧合 / 剛剛好",
+      "subtitle": "正是時候",
+      "phrases": [
+        {
+          "id": "timing-01",
+          "en": "It just so happens.",
+          "zh": "好巧，我正好有。",
+          "tags": [
+            "日常",
+            "巧合"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "timing-02",
+          "en": "Perfect timing.",
+          "zh": "來得好，不如來得巧。",
+          "tags": [
+            "日常",
+            "巧合"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "timing-03",
+          "en": "It's spot on.",
+          "zh": "不多不少剛剛好。",
+          "tags": [
+            "日常",
+            "讚美"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "timing-04",
+          "en": "Just what the doctor ordered.",
+          "zh": "及時雨，剛好是我想要的。",
+          "tags": [
+            "日常",
+            "慣用語"
+          ],
+          "level": "advanced"
+        }
+      ]
+    },
+    {
+      "id": "misc",
+      "title": "單句精選",
+      "subtitle": "各種情境",
+      "phrases": [
+        {
+          "id": "misc-01",
+          "en": "It just hit me.",
+          "zh": "我突然想起來了。",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "misc-02",
+          "en": "This is apples and oranges.",
+          "zh": "這是兩碼子事。",
+          "tags": [
+            "日常",
+            "慣用語"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "misc-03",
+          "en": "That's rich.",
+          "zh": "真諷刺！虧你還有臉說！",
+          "tags": [
+            "諷刺",
+            "嗆人"
+          ],
+          "level": "advanced"
+        },
+        {
+          "id": "misc-04",
+          "en": "That sounds like a you problem.",
+          "zh": "那是你的問題。",
+          "tags": [
+            "嗆人",
+            "日常"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "misc-05",
+          "en": "Make it make sense.",
+          "zh": "給我解釋這到底是怎麼一回事？",
+          "tags": [
+            "質疑",
+            "口語"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "misc-06",
+          "en": "Gee, thanks.",
+          "zh": "我真謝謝你啊！（諷刺語氣）",
+          "tags": [
+            "諷刺",
+            "口語"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "misc-07",
+          "en": "Look who finally showed up!",
+          "zh": "看看誰終於來了！",
+          "tags": [
+            "諷刺",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "misc-08",
+          "en": "Don't get your hopes up.",
+          "zh": "別高興太早。",
+          "tags": [
+            "日常",
+            "警告"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "misc-09",
+          "en": "Newsflash!",
+          "zh": "沒聽說過吧！重大新聞。",
+          "tags": [
+            "諷刺",
+            "口語"
+          ],
+          "level": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "title": "社交語氣",
+      "subtitle": "日常互動",
+      "phrases": [
+        {
+          "id": "social-01",
+          "en": "Who's we?",
+          "zh": "誰跟你是「我們」？",
+          "tags": [
+            "嗆人",
+            "日常"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "social-02",
+          "en": "Like you know!",
+          "zh": "你懂個屁！",
+          "tags": [
+            "嗆人",
+            "口語"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "social-03",
+          "en": "Speak for yourself.",
+          "zh": "那是你，別帶上我。",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "social-04",
+          "en": "How should I know?",
+          "zh": "我哪知道啊？",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "social-05",
+          "en": "I'll let it slide.",
+          "zh": "這次就算了！",
+          "tags": [
+            "日常",
+            "寬容"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "social-06",
+          "en": "Classic you.",
+          "zh": "真有你的！",
+          "tags": [
+            "日常",
+            "諷刺"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "social-07",
+          "en": "Go take five!",
+          "zh": "去歇一會兒吧！",
+          "tags": [
+            "日常",
+            "關心"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "social-08",
+          "en": "Read the room!",
+          "zh": "看點眼色行嗎？注意一下氣氛。",
+          "tags": [
+            "嗆人",
+            "日常"
+          ],
+          "level": "advanced"
+        },
+        {
+          "id": "social-09",
+          "en": "It is what it is.",
+          "zh": "沒辦法囉！",
+          "tags": [
+            "日常",
+            "接受"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "social-10",
+          "en": "So sue me!",
+          "zh": "我就是做了，你能怎樣？",
+          "tags": [
+            "嗆人",
+            "口語"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "social-11",
+          "en": "It's on the house.",
+          "zh": "本店請客！",
+          "tags": [
+            "日常",
+            "餐廳"
+          ],
+          "level": "intermediate"
+        },
+        {
+          "id": "social-12",
+          "en": "Hit me up.",
+          "zh": "給我發消息聯絡我。",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "beginner"
+        },
+        {
+          "id": "social-13",
+          "en": "Let's play it by ear.",
+          "zh": "到時候看情況再說，見機行事！",
+          "tags": [
+            "日常",
+            "彈性"
+          ],
+          "level": "intermediate"
+        }
+      ]
+    }
+  ]
+}
