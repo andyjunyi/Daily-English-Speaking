@@ -209,7 +209,7 @@
   /* CARD */
   .card {
     perspective: 800px;
-    height: 170px;
+    height: 180px;
     cursor: pointer;
   }
   .card-inner {
@@ -222,7 +222,29 @@
   .card.flipped .card-inner {
     transform: rotateY(180deg);
   }
-  .card-front, .card-back {
+  .card-front {
+    position: absolute;
+    inset: 0;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    border-radius: 12px;
+    padding: 18px 20px 12px;
+    border: 1px solid var(--border);
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: border-color 0.2s, background 0.2s;
+  }
+  .card-front .card-meta {
+    position: absolute;
+    bottom: 10px;
+    left: 16px;
+    right: 16px;
+  }
+  .card-back {
     position: absolute;
     inset: 0;
     backface-visibility: hidden;
@@ -230,7 +252,7 @@
     border-radius: 12px;
     padding: 18px 20px;
     border: 1px solid var(--border);
-    background: #ffffff;
+    background: linear-gradient(135deg, #fff5e6 0%, #ffffff 100%);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -249,10 +271,11 @@
 
   .card-en {
     font-family: 'DM Mono', monospace;
-    font-size: 0.95rem;
+    font-size: 1.15rem;
     color: var(--text);
     line-height: 1.4;
     font-weight: 500;
+    word-break: break-word;
   }
   .card-zh-back {
     font-size: 0.95rem;
