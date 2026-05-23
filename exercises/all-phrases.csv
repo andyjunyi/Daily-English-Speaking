@@ -1,67 +1,79 @@
 ﻿category,english,chinese,level,tags
-arrogance,Get over yourself.,別太把自己當回事。,intermediate,嗆人;日常
-arrogance,The world doesn't revolve around you.,別太自私。,intermediate,嗆人;日常
-arrogance,Don't flatter yourself.,別自以為是。,intermediate,嗆人;日常
-arrogance,Who do you think you are?,你算老幾？,beginner,嗆人;憤怒
-arrogance,Where do you get off?,你哪來的臉皮？你哪來的膽子？,advanced,嗆人;憤怒
-arrogance,You think you're all that.,你以為你很行？,intermediate,嗆人;諷刺
-give-up,Forget it!,算了，別說了。,beginner,情緒;日常
-give-up,Drop it!,別說了。,beginner,情緒;日常
-give-up,Call it a day.,到此為止。,beginner,日常;工作
-give-up,Never mind.,沒關係。,beginner,日常
-give-up,Let it go.,別糾結了。,beginner,情緒;日常
-give-up,It's not worth it.,算了。,beginner,情緒;日常
-give-up,Forget about it.,沒事的。,beginner,日常
-give-up,Don't worry about it.,沒關係，別放在心上。,beginner,日常;安慰
-appreciation,You've had a long day.,你今天辛苦了。,beginner,關心;日常
-appreciation,Thank you for your hard work.,謝謝你的努力。,beginner,感謝;工作
-appreciation,Thank you so much for your hard work.,真的非常謝謝你的努力。,beginner,感謝;工作
-appreciation,I want to thank you all for your hard work today.,感謝大家今天的辛苦付出。,intermediate,感謝;工作;正式
-appreciation,I appreciate the hustle.,感謝你的拼勁。,intermediate,感謝;口語
-appreciation,Much appreciated.,非常感謝。,beginner,感謝;日常
-hurt,That's too harsh.,太狠了。,beginner,情緒;日常
-hurt,That's too/so mean.,你真壞。,beginner,情緒;日常
-hurt,That hurts.,好痛。,beginner,情緒;日常
-hurt,That hurts my feelings.,傷我心了。,beginner,情緒;日常
-hurt,That stings (a bit).,有點刺。,intermediate,情緒;日常
-why-bother,Why bother?,何必呢？,beginner,質疑;日常
-why-bother,What's in it for you?,圖啥呢？,intermediate,質疑;日常
-why-bother,To what end?,圖什麼結果呢？,advanced,質疑;正式
-take-over,I'll take it from here.,你去吧，我來做！,intermediate,日常;工作
-take-over,I've got this.,我來就行。,beginner,日常;自信
-take-over,Leave it with me.,交給我吧！,beginner,日常;工作
-challenge,Try me!,誰怕誰！,beginner,嗆人;挑釁
-challenge,Name the time and place.,說時間地點！,intermediate,嗆人;挑釁
-challenge,Bring it on!,放馬過來！,beginner,嗆人;挑釁
-challenge,Let's see you try!,那你來！,beginner,嗆人;挑釁
-challenge,Not on my watch!,門都沒有。,intermediate,拒絕;強硬
-challenge,Hard pass!,想都別想！下輩子吧！,beginner,拒絕;口語
-take-back,Scratch that.,當我沒說。,intermediate,日常;口語
-take-back,Forget I said anything.,當我什麼都沒說。,beginner,日常;口語
-take-back,Never mind.,算了。,beginner,日常
-timing,It just so happens.,好巧，我正好有。,intermediate,日常;巧合
-timing,Perfect timing.,來得好，不如來得巧。,beginner,日常;巧合
-timing,It's spot on.,不多不少剛剛好。,intermediate,日常;讚美
-timing,Just what the doctor ordered.,及時雨，剛好是我想要的。,advanced,日常;慣用語
-misc,It just hit me.,我突然想起來了。,beginner,日常;口語
-misc,This is apples and oranges.,這是兩碼子事。,intermediate,日常;慣用語
-misc,That's rich.,真諷刺！虧你還有臉說！,advanced,諷刺;嗆人
-misc,That sounds like a you problem.,那是你的問題。,intermediate,嗆人;日常
-misc,Make it make sense.,給我解釋這到底是怎麼一回事？,intermediate,質疑;口語
-misc,Gee, thanks.,我真謝謝你啊！（諷刺語氣）,intermediate,諷刺;口語
-misc,Look who finally showed up!,看看誰終於來了！,beginner,諷刺;日常
-misc,Don't get your hopes up.,別高興太早。,beginner,日常;警告
-misc,Newsflash!,沒聽說過吧！重大新聞。,intermediate,諷刺;口語
-social,Who's we?,誰跟你是「我們」？,beginner,嗆人;日常
-social,Like you know!,你懂個屁！,beginner,嗆人;口語
-social,Speak for yourself.,那是你，別帶上我。,beginner,日常;口語
-social,How should I know?,我哪知道啊？,beginner,日常;口語
-social,I'll let it slide.,這次就算了！,intermediate,日常;寬容
-social,Classic you.,真有你的！,intermediate,日常;諷刺
-social,Go take five!,去歇一會兒吧！,intermediate,日常;關心
-social,Read the room!,看點眼色行嗎？注意一下氣氛。,advanced,嗆人;日常
-social,It is what it is.,沒辦法囉！,beginner,日常;接受
-social,So sue me!,我就是做了，你能怎樣？,intermediate,嗆人;口語
-social,It's on the house.,本店請客！,intermediate,日常;餐廳
-social,Hit me up.,給我發消息聯絡我。,beginner,日常;口語
-social,Let's play it by ear.,到時候看情況再說，見機行事！,intermediate,日常;彈性
+go-with-flow,Anything is fine.,都行。,beginner,隨緣;日常
+go-with-flow,Just roll with it.,那就先這樣吧。見招拆招。,intermediate,隨緣;日常
+go-with-flow,Whatever will be, will be.,該來的總會來。順其自然。,intermediate,隨緣;豁達
+go-with-flow,Let nature take its course.,讓事情按自然規律發展。,advanced,隨緣;豁達
+go-with-flow,Go with the flow.,順著來，別太擰巴。,beginner,隨緣;日常
+go-with-flow,Just let it be.,隨它去吧。別管了。,beginner,隨緣;日常
+go-with-flow,Suit yourself.,隨你便吧。你愛怎樣怎樣。,intermediate,隨緣;無奈
+go-with-flow,If that makes you happy.,你開心就好。,beginner,隨緣;敷衍
+go-with-flow,Now I get it.,原來如此。,beginner,日常;理解
+go-with-flow,So it is.,確實是這樣。,beginner,日常;附和
+polite-refusal,This isn't a good time.,我現在不太方便。,beginner,拒絕;職場
+polite-refusal,I'm in the middle of something.,我手頭上有事在處理。,intermediate,拒絕;職場
+polite-refusal,Something came up.,臨時有點事。,beginner,拒絕;請假
+polite-refusal,I'll let you get back to it.,那你先繼續忙吧。,intermediate,禮貌;職場
+polite-refusal,I'll leave you to it.,那你繼續忙，我先撤了。,intermediate,禮貌;職場
+polite-refusal,I'll pass.,我還是算了吧。,beginner,拒絕;日常
+polite-refusal,I'm good, thanks!,不用了，謝謝！,beginner,拒絕;日常
+challenge-reason,Why though?,憑什麼啊？,beginner,質疑;日常
+challenge-reason,Based on what?,憑什麼這麼說？有何根據？,intermediate,質疑;強硬
+challenge-reason,How is this even possible?,這怎麼可能？,beginner,質疑;驚訝
+challenge-reason,You got proof?,你有證據嗎？,beginner,質疑;強硬
+challenge-reason,What makes you say that?,你憑什麼這麼說？,intermediate,質疑;理性
+challenge-reason,What did you think?,不然你以為呢？,beginner,質疑;調侃
+set-boundary,Who's we?,誰跟你是我們？,beginner,劃清;日常
+set-boundary,Speak for yourself!,那是你，別帶上我。,beginner,劃清;日常
+set-boundary,Mind your own business!,管好你自己的事！,beginner,劃清;強硬
+set-boundary,Who cares about you?,誰管你啊！,beginner,劃清;嗆人
+set-boundary,I don't owe you an explanation.,我沒必要跟你交代。,intermediate,劃清;高情商
+set-boundary,Do I look stupid to you?,你看我像傻子嗎？,beginner,劃清;憤怒
+set-boundary,I think you did that on purpose.,你絕對是故意的。,intermediate,劃清;指責
+set-boundary,Don't put words in my mouth.,少替我發言。別亂栽贓。,intermediate,劃清;職場
+confrontation,Are you taking this personally?,你在對號入座嗎？,intermediate,對質;理性
+confrontation,Are you brushing me off?,你是在敷衍我嗎？,intermediate,對質;質疑
+confrontation,Are you taking shots at me?,你是在內涵我嗎？,advanced,對質;質疑
+confrontation,Are you causing trouble?,你在搞事嗎？,intermediate,對質;警告
+confrontation,Are you playing the victim?,你在裝可憐嗎？,intermediate,對質;諷刺
+confrontation,Are you deaf or something?,你是耳朵聾了嗎？,advanced,對質;憤怒
+ultimate-roast,Or what?,不然你想怎樣？,beginner,反制;挑釁
+ultimate-roast,That's the best you got?,你就這點本事？,intermediate,反制;蔑視
+ultimate-roast,And I should care because...?,我為什麼要在乎？,intermediate,反制;蔑視
+ultimate-roast,For who?,給誰？對誰而言？,beginner,反制;質疑
+ultimate-roast,Did I hit a nerve?,你急了？我戳到痛處了？,intermediate,反制;諷刺
+ultimate-roast,What's that supposed to mean?,你這是什麼意思？,intermediate,反制;質疑
+ultimate-roast,Where are your manners?,你禮貌嗎？,intermediate,反制;譴責
+ultimate-roast,Who made you the boss?,你說了算？你算哪根蔥？,intermediate,反制;強硬
+ultimate-roast,You better think carefully.,你最好想清楚。,intermediate,反制;威脅
+ultimate-roast,I'm not doing this with you.,我沒空陪你鬧。,intermediate,反制;冷漠
+ultimate-roast,Do I owe you something?,我欠你的嗎？,intermediate,反制;強硬
+ultimate-roast,Who are you trying to impress?,裝什麼裝？演給誰看？,intermediate,反制;諷刺
+ultimate-roast,Don't touch me!,別碰我！,beginner,反制;身體
+ultimate-roast,You think you're slick?,你以為你耍小聰明沒人看出來？,intermediate,反制;諷刺
+ultimate-roast,You're playing with fire.,你在玩火。,intermediate,反制;威脅
+ultimate-roast,Go ahead, make my day.,有種你就試試看。,advanced,反制;挑釁
+ultimate-roast,And you think you matter?,你算哪根蔥？,advanced,反制;蔑視
+ultimate-roast,Don't say I didn't warn you.,我話先說在前頭。,intermediate,反制;威脅
+ultimate-roast,Let's keep it professional.,公事公辦。,intermediate,反制;職場
+strong-refusal,You wish.,想得美。,beginner,拒絕;嗆人
+strong-refusal,Nice try.,少來這套。,beginner,拒絕;嗆人
+strong-refusal,In your dreams.,做夢去吧。,beginner,拒絕;嗆人
+strong-refusal,Yeah, right.,才信你咧。,beginner,拒絕;諷刺
+strong-refusal,Not a chance.,絕不可能。,beginner,拒絕;強硬
+strong-refusal,Good luck with that.,那你慢慢做夢吧。,intermediate,拒絕;諷刺
+strong-refusal,Not happening.,沒門。辦不到。,beginner,拒絕;強硬
+daily-social,Let's grab something to eat.,去吃點東西吧。,beginner,約飯;日常
+daily-social,I'm starving.,快餓死了。,beginner,日常;誇飾
+daily-social,Wait for me.,等我。,beginner,日常
+daily-social,Hit me up.,聯絡我。密我。,beginner,日常;口語
+daily-social,I'm just browsing.,我只是隨便看看。,beginner,購物;日常
+daily-social,I'm just saying.,我只是隨口說說。,beginner,日常;口語
+daily-social,I saw that coming.,我早就料到了。,beginner,日常;口語
+daily-social,Believe it or not.,信不信由你。,beginner,日常;口語
+fun-words,Chit-chat.,閒聊。,beginner,趣味;日常
+fun-words,Mumbo-jumbo.,胡說八道。,intermediate,趣味;嗆人
+fun-words,Hanky-panky.,偷雞摸狗。不正當勾當。,intermediate,趣味;口語
+fun-words,Freaky-deaky.,怪裡怪氣。,advanced,趣味;口語
+seize-opportunity,Take the opportunity.,抓住機會。,beginner,機會;日常
+seize-opportunity,Seize the chance.,趕緊抓牢機會。,intermediate,機會;緊迫
+seize-opportunity,Make the most of it.,榨乾這個機會的價值。,intermediate,機會;激勵
