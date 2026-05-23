@@ -11,16 +11,116 @@
       "title": "佛系隨緣",
       "subtitle": "順其自然 / 社交敷衍",
       "phrases": [
-        { "id": "flow-01", "en": "Anything is fine.", "zh": "都行。", "tags": ["隨緣","日常"], "level": "beginner" },
-        { "id": "flow-02", "en": "Just roll with it.", "zh": "那就先這樣吧。見招拆招。", "tags": ["隨緣","日常"], "level": "intermediate" },
-        { "id": "flow-03", "en": "Whatever will be, will be.", "zh": "該來的總會來。順其自然。", "tags": ["隨緣","豁達"], "level": "intermediate" },
-        { "id": "flow-04", "en": "Let nature take its course.", "zh": "讓事情按自然規律發展。", "tags": ["隨緣","豁達"], "level": "advanced" },
-        { "id": "flow-05", "en": "Go with the flow.", "zh": "順著來，別太擰巴。", "tags": ["隨緣","日常"], "level": "beginner" },
-        { "id": "flow-06", "en": "Just let it be.", "zh": "隨它去吧。別管了。", "tags": ["隨緣","日常"], "level": "beginner" },
-        { "id": "flow-07", "en": "Suit yourself.", "zh": "隨你便吧。你愛怎樣怎樣。", "tags": ["隨緣","無奈"], "level": "intermediate" },
-        { "id": "flow-08", "en": "If that makes you happy.", "zh": "你開心就好。", "tags": ["隨緣","敷衍"], "level": "beginner" },
-        { "id": "flow-09", "en": "Now I get it.", "zh": "原來如此。", "tags": ["日常","理解"], "level": "beginner" },
-        { "id": "flow-10", "en": "So it is.", "zh": "確實是這樣。", "tags": ["日常","附和"], "level": "beginner" }
+        {
+          "id": "flow-01",
+          "en": "Anything is fine.",
+          "zh": "都行。",
+          "tags": [
+            "隨緣",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "做決定時表現出隨和或無所謂的態度。點餐、選地方時非常實用。"
+        },
+        {
+          "id": "flow-02",
+          "en": "Just roll with it.",
+          "zh": "那就先這樣吧。見招拆招。",
+          "tags": [
+            "隨緣",
+            "日常"
+          ],
+          "level": "intermediate",
+          "context": "當事情發展不照計劃走，與其焦慮，不如放輕鬆、走一步算一步。"
+        },
+        {
+          "id": "flow-03",
+          "en": "Whatever will be, will be.",
+          "zh": "該來的總會來。順其自然。",
+          "tags": [
+            "隨緣",
+            "豁達"
+          ],
+          "level": "intermediate",
+          "context": "表達對於未來無法控制的事情抱持著豁達、不再強求的態度。"
+        },
+        {
+          "id": "flow-04",
+          "en": "Let nature take its course.",
+          "zh": "讓事情按自然規律發展。",
+          "tags": [
+            "隨緣",
+            "豁達"
+          ],
+          "level": "advanced",
+          "context": "比上一句更具文雅感。常用於決定不加人工干涉、隨遇而安時。"
+        },
+        {
+          "id": "flow-05",
+          "en": "Go with the flow.",
+          "zh": "順著來，別太擰巴。",
+          "tags": [
+            "隨緣",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "形容自己像水流一樣順應環境，融入大家的決定或環境變化。"
+        },
+        {
+          "id": "flow-06",
+          "en": "Just let it be.",
+          "zh": "隨它去吧。別管了。",
+          "tags": [
+            "隨緣",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "意思是既然改變不了，就維持原狀、不要再去操心或試圖插手。"
+        },
+        {
+          "id": "flow-07",
+          "en": "Suit yourself.",
+          "zh": "隨你便吧。你愛怎樣怎樣。",
+          "tags": [
+            "隨緣",
+            "無奈"
+          ],
+          "level": "intermediate",
+          "context": "通常帶有一絲「無奈、懶得管你、或是你講不聽就算了」的放棄語氣。"
+        },
+        {
+          "id": "flow-08",
+          "en": "If that makes you happy.",
+          "zh": "你開心就好。",
+          "tags": [
+            "隨緣",
+            "敷衍"
+          ],
+          "level": "beginner",
+          "context": "口語中多用於「妥協與無奈敷衍」。意思是「雖然我不完全認同，但你高興就好」。"
+        },
+        {
+          "id": "flow-09",
+          "en": "Now I get it.",
+          "zh": "原來如此。",
+          "tags": [
+            "日常",
+            "理解"
+          ],
+          "level": "beginner",
+          "context": "微言大義的神句。當你想明白、了解某件事的來龍去脈時使用。"
+        },
+        {
+          "id": "flow-10",
+          "en": "So it is.",
+          "zh": "確實是這樣。",
+          "tags": [
+            "日常",
+            "附和"
+          ],
+          "level": "beginner",
+          "context": "用來附和、確認對方的說法或發現，表達「果真如此、確實沒錯」。"
+        }
       ]
     },
     {
@@ -28,13 +128,83 @@
       "title": "優雅拒絕",
       "subtitle": "高情商推託 / 職場請假",
       "phrases": [
-        { "id": "refuse-01", "en": "This isn't a good time.", "zh": "我現在不太方便。", "tags": ["拒絕","職場"], "level": "beginner" },
-        { "id": "refuse-02", "en": "I'm in the middle of something.", "zh": "我手頭上有事在處理。", "tags": ["拒絕","職場"], "level": "intermediate" },
-        { "id": "refuse-03", "en": "Something came up.", "zh": "臨時有點事。", "tags": ["拒絕","請假"], "level": "beginner" },
-        { "id": "refuse-04", "en": "I'll let you get back to it.", "zh": "那你先繼續忙吧。", "tags": ["禮貌","職場"], "level": "intermediate" },
-        { "id": "refuse-05", "en": "I'll leave you to it.", "zh": "那你繼續忙，我先撤了。", "tags": ["禮貌","職場"], "level": "intermediate" },
-        { "id": "refuse-06", "en": "I'll pass.", "zh": "我還是算了吧。", "tags": ["拒絕","日常"], "level": "beginner" },
-        { "id": "refuse-07", "en": "I'm good, thanks!", "zh": "不用了，謝謝！", "tags": ["拒絕","日常"], "level": "beginner" }
+        {
+          "id": "refuse-01",
+          "en": "This isn't a good time.",
+          "zh": "我現在不太方便。",
+          "tags": [
+            "拒絕",
+            "職場"
+          ],
+          "level": "beginner",
+          "context": "當別人突然打電話、或走過來想跟你聊重要事情，而你當下正忙、不方便分心時，一句極度有禮貌、成熟且客觀的推託句。"
+        },
+        {
+          "id": "refuse-02",
+          "en": "I'm in the middle of something.",
+          "zh": "我手頭上有事在處理。",
+          "tags": [
+            "拒絕",
+            "職場"
+          ],
+          "level": "intermediate",
+          "context": "職場必備自保句！字面意思是「我正處於某件事的中間」，暗示對方請待會再來。"
+        },
+        {
+          "id": "refuse-03",
+          "en": "Something came up.",
+          "zh": "臨時有點事。",
+          "tags": [
+            "拒絕",
+            "請假"
+          ],
+          "level": "beginner",
+          "context": "職場與社交請假放鳥的第一神句！當你臨時無法赴約或需要請假時，回一句 `Something came up` 或者是 `Something has come up`（臨時有事發生）是最得體、最能保護隱私的藉口。"
+        },
+        {
+          "id": "refuse-04",
+          "en": "I'll let you get back to it.",
+          "zh": "那你先繼續忙吧。",
+          "tags": [
+            "禮貌",
+            "職場"
+          ],
+          "level": "intermediate",
+          "context": "高情商結束對話神句（主動貼心版）！當你在辦公室找同事聊天、或和朋友講電話，發現對方似乎有點忙、或對話已經聊得差不多時，你主動貼心地拋出這句話，既能禮貌地終結對話，又能顯得你非常體貼、不打擾對方工作。"
+        },
+        {
+          "id": "refuse-05",
+          "en": "I'll leave you to it.",
+          "zh": "那你繼續忙，我先撤了。",
+          "tags": [
+            "禮貌",
+            "職場"
+          ],
+          "level": "intermediate",
+          "context": "高情商離場神句（帥氣撤退版）！與上一句非常相似，但這句更常用於「實體離場」。例如你看到朋友正在忙、或同事正對著電腦抓狂，你說完你要說的話後，一邊轉身離開一邊甩出這句。"
+        },
+        {
+          "id": "refuse-06",
+          "en": "I'll pass.",
+          "zh": "我還是算了吧。",
+          "tags": [
+            "拒絕",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "`pass` 意思是跳過。當別人邀請你參加一個活動、派對、或是提議一件你完全沒興趣的事情時，簡短、直白但保留禮貌地拒絕。"
+        },
+        {
+          "id": "refuse-07",
+          "en": "I'm good, thanks!",
+          "zh": "不用了，謝謝！",
+          "tags": [
+            "拒絕",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "當店員想幫你加湯、別人想塞東西給你、或主動提供你不需要的幫助時，回這句可以優雅且堅定地下台階。"
+        }
       ]
     },
     {
@@ -42,12 +212,72 @@
       "title": "合理質疑",
       "subtitle": "追究原因 / 索取證據",
       "phrases": [
-        { "id": "reason-01", "en": "Why though?", "zh": "憑什麼啊？", "tags": ["質疑","日常"], "level": "beginner" },
-        { "id": "reason-02", "en": "Based on what?", "zh": "憑什麼這麼說？有何根據？", "tags": ["質疑","強硬"], "level": "intermediate" },
-        { "id": "reason-03", "en": "How is this even possible?", "zh": "這怎麼可能？", "tags": ["質疑","驚訝"], "level": "beginner" },
-        { "id": "reason-04", "en": "You got proof?", "zh": "你有證據嗎？", "tags": ["質疑","強硬"], "level": "beginner" },
-        { "id": "reason-05", "en": "What makes you say that?", "zh": "你憑什麼這麼說？", "tags": ["質疑","理性"], "level": "intermediate" },
-        { "id": "reason-06", "en": "What did you think?", "zh": "不然你以為呢？", "tags": ["質疑","調侃"], "level": "beginner" }
+        {
+          "id": "reason-01",
+          "en": "Why though?",
+          "zh": "憑什麼啊？",
+          "tags": [
+            "質疑",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "句尾的 `though` 帶有轉折追問語氣。當對方提出一個奇怪的要求或決定，你覺得很不合理時使用。"
+        },
+        {
+          "id": "reason-02",
+          "en": "Based on what?",
+          "zh": "憑什麼這麼說？有何根據？",
+          "tags": [
+            "質疑",
+            "強硬"
+          ],
+          "level": "intermediate",
+          "context": "具備攻擊性與挑戰性的追問。要求對方為他的指控或結論拿出「實質證據」。"
+        },
+        {
+          "id": "reason-03",
+          "en": "How is this even possible?",
+          "zh": "這怎麼可能？",
+          "tags": [
+            "質疑",
+            "驚訝"
+          ],
+          "level": "beginner",
+          "context": "面對一個極度令人震驚、不合常理、或是完全超出預期的事情時發出的驚嘆。"
+        },
+        {
+          "id": "reason-04",
+          "en": "You got proof?",
+          "zh": "你有證據嗎？",
+          "tags": [
+            "質疑",
+            "強硬"
+          ],
+          "level": "beginner",
+          "context": "當對方對你或別人做出控訴、猜疑時，立刻用這句話頂回去，能瞬間封住對方的嘴。"
+        },
+        {
+          "id": "reason-05",
+          "en": "What makes you say that?",
+          "zh": "你憑什麼這麼說？",
+          "tags": [
+            "質疑",
+            "理性"
+          ],
+          "level": "intermediate",
+          "context": "相較於 \"Based on what?\"，這句話語氣稍微理性、客觀一些。用來探詢對方說出某句驚人之語背後的「原因」。"
+        },
+        {
+          "id": "reason-06",
+          "en": "What did you think?",
+          "zh": "不然你以為呢？",
+          "tags": [
+            "質疑",
+            "調侃"
+          ],
+          "level": "beginner",
+          "context": "當對方發現了一個明擺著的顯而易見事實、或者是某個必然的結果發生卻在那裡感到驚訝時，用這句話來調侃、回懟他。"
+        }
       ]
     },
     {
@@ -55,14 +285,94 @@
       "title": "劃清界線",
       "subtitle": "職場防禦 / 看穿裝傻",
       "phrases": [
-        { "id": "bound-01", "en": "Who's we?", "zh": "誰跟你是我們？", "tags": ["劃清","日常"], "level": "beginner" },
-        { "id": "bound-02", "en": "Speak for yourself!", "zh": "那是你，別帶上我。", "tags": ["劃清","日常"], "level": "beginner" },
-        { "id": "bound-03", "en": "Mind your own business!", "zh": "管好你自己的事！", "tags": ["劃清","強硬"], "level": "beginner" },
-        { "id": "bound-04", "en": "Who cares about you?", "zh": "誰管你啊！", "tags": ["劃清","嗆人"], "level": "beginner" },
-        { "id": "bound-05", "en": "I don't owe you an explanation.", "zh": "我沒必要跟你交代。", "tags": ["劃清","高情商"], "level": "intermediate" },
-        { "id": "bound-06", "en": "Do I look stupid to you?", "zh": "你看我像傻子嗎？", "tags": ["劃清","憤怒"], "level": "beginner" },
-        { "id": "bound-07", "en": "I think you did that on purpose.", "zh": "你絕對是故意的。", "tags": ["劃清","指責"], "level": "intermediate" },
-        { "id": "bound-08", "en": "Don't put words in my mouth.", "zh": "少替我發言。別亂栽贓。", "tags": ["劃清","職場"], "level": "intermediate" }
+        {
+          "id": "bound-01",
+          "en": "Who's we?",
+          "zh": "誰跟你是我們？",
+          "tags": [
+            "劃清",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "當別人自作主張把你算進去某個計畫、八卦或苦差事時，用來冷冷地撇清關係，劃清界線。"
+        },
+        {
+          "id": "bound-02",
+          "en": "Speak for yourself!",
+          "zh": "那是你，別帶上我。",
+          "tags": [
+            "劃清",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "駁斥對方以偏概全、把個人主觀想法強加在所有人身上的言論。"
+        },
+        {
+          "id": "bound-03",
+          "en": "Mind your own business!",
+          "zh": "管好你自己的事！",
+          "tags": [
+            "劃清",
+            "強硬"
+          ],
+          "level": "beginner",
+          "context": "當別人過度干涉你的私生活或對你的決定指手畫腳時，強力捍衛隱私的直白警告。"
+        },
+        {
+          "id": "bound-04",
+          "en": "Who cares about you?",
+          "zh": "誰管你啊！",
+          "tags": [
+            "劃清",
+            "嗆人"
+          ],
+          "level": "beginner",
+          "context": "當對方自我感覺良好、或者自以為很重要地在那裡碎碎念或抱怨時，用這句話無情地給對方潑冷水。"
+        },
+        {
+          "id": "bound-05",
+          "en": "I don't owe you an explanation.",
+          "zh": "我沒必要跟你交代。",
+          "tags": [
+            "劃清",
+            "高情商"
+          ],
+          "level": "intermediate",
+          "context": "高情商拒絕回答神句！當同事、普通朋友或多管閒事的人越界詢問你的私生活、個人決定時，用這句話堅定且冷酷地劃清界線。"
+        },
+        {
+          "id": "bound-06",
+          "en": "Do I look stupid to you?",
+          "zh": "你看我像傻子嗎？",
+          "tags": [
+            "劃清",
+            "憤怒"
+          ],
+          "level": "beginner",
+          "context": "當對方用極度荒謬、漏洞百出的謊言試圖欺騙你、敷衍你時，用這句充滿怒火的反問來警告對方「放聰明點，我早就看穿了」。"
+        },
+        {
+          "id": "bound-07",
+          "en": "I think you did that on purpose.",
+          "zh": "你絕對是故意的。",
+          "tags": [
+            "劃清",
+            "指責"
+          ],
+          "level": "intermediate",
+          "context": "當對方做錯事、冒犯到你，卻假惺惺地說「喔！真是不小心 / 我不是故意的」時，你用這句話當面撕開對方的偽裝。"
+        },
+        {
+          "id": "bound-08",
+          "en": "Don't put words in my mouth.",
+          "zh": "少替我發言。別亂栽贓。",
+          "tags": [
+            "劃清",
+            "職場"
+          ],
+          "level": "intermediate",
+          "context": "在爭論或職場開會時的防衛神句！當對方為了贏得辯論，故意曲解你的意思，或者捏造、強加你根本沒說過的話在你頭上時。"
+        }
       ]
     },
     {
@@ -70,12 +380,72 @@
       "title": "當面對質",
       "subtitle": "看穿把戲 / Are you...?",
       "phrases": [
-        { "id": "conf-01", "en": "Are you taking this personally?", "zh": "你在對號入座嗎？", "tags": ["對質","理性"], "level": "intermediate" },
-        { "id": "conf-02", "en": "Are you brushing me off?", "zh": "你是在敷衍我嗎？", "tags": ["對質","質疑"], "level": "intermediate" },
-        { "id": "conf-03", "en": "Are you taking shots at me?", "zh": "你是在內涵我嗎？", "tags": ["對質","質疑"], "level": "advanced" },
-        { "id": "conf-04", "en": "Are you causing trouble?", "zh": "你在搞事嗎？", "tags": ["對質","警告"], "level": "intermediate" },
-        { "id": "conf-05", "en": "Are you playing the victim?", "zh": "你在裝可憐嗎？", "tags": ["對質","諷刺"], "level": "intermediate" },
-        { "id": "conf-06", "en": "Are you deaf or something?", "zh": "你是耳朵聾了嗎？", "tags": ["對質","憤怒"], "level": "advanced" }
+        {
+          "id": "conf-01",
+          "en": "Are you taking this personally?",
+          "zh": "你在對號入座嗎？",
+          "tags": [
+            "對質",
+            "理性"
+          ],
+          "level": "intermediate",
+          "context": "當你發表了一個客觀評論，而對方突然生氣、覺得你在攻擊他時，你用這句話來反問他。"
+        },
+        {
+          "id": "conf-02",
+          "en": "Are you brushing me off?",
+          "zh": "你是在敷衍我嗎？",
+          "tags": [
+            "對質",
+            "質疑"
+          ],
+          "level": "intermediate",
+          "context": "`brush off` 意思是打發、應付。當你認真跟對方談事情，對方卻一直轉移話題試圖趕快結束對話時質問對方。"
+        },
+        {
+          "id": "conf-03",
+          "en": "Are you taking shots at me?",
+          "zh": "你是在內涵我嗎？",
+          "tags": [
+            "對質",
+            "質疑"
+          ],
+          "level": "advanced",
+          "context": "`take shots at someone` 意思是言語攻擊、諷刺。當對方表面上在說別的事，但明眼人都聽得出來是在暗諷你時使用。"
+        },
+        {
+          "id": "conf-04",
+          "en": "Are you causing trouble?",
+          "zh": "你在搞事嗎？",
+          "tags": [
+            "對質",
+            "警告"
+          ],
+          "level": "intermediate",
+          "context": "通常由主管、警衛、或現場維護秩序的人使用，語氣嚴肅且帶有強烈的警告與喝止意味。"
+        },
+        {
+          "id": "conf-05",
+          "en": "Are you playing the victim?",
+          "zh": "你在裝可憐嗎？",
+          "tags": [
+            "對質",
+            "諷刺"
+          ],
+          "level": "intermediate",
+          "context": "當對方明明是犯錯、理虧的那一方，卻搶先哭泣、裝作自己才是被欺負的受害者時，一針見血地戳破他。"
+        },
+        {
+          "id": "conf-06",
+          "en": "Are you deaf or something?",
+          "zh": "你是耳朵聾了嗎？",
+          "tags": [
+            "對質",
+            "憤怒"
+          ],
+          "level": "advanced",
+          "context": "語氣極度不耐煩、具備強烈攻擊性。當你重複說了很多次，對方卻故意裝作沒聽到時使用。"
+        }
       ]
     },
     {
@@ -83,25 +453,215 @@
       "title": "強烈反制",
       "subtitle": "警告 / 威脅 / 終極蔑視",
       "phrases": [
-        { "id": "roast-01", "en": "Or what?", "zh": "不然你想怎樣？", "tags": ["反制","挑釁"], "level": "beginner" },
-        { "id": "roast-02", "en": "That's the best you got?", "zh": "你就這點本事？", "tags": ["反制","蔑視"], "level": "intermediate" },
-        { "id": "roast-03", "en": "And I should care because...?", "zh": "我為什麼要在乎？", "tags": ["反制","蔑視"], "level": "intermediate" },
-        { "id": "roast-04", "en": "For who?", "zh": "給誰？對誰而言？", "tags": ["反制","質疑"], "level": "beginner" },
-        { "id": "roast-05", "en": "Did I hit a nerve?", "zh": "你急了？我戳到痛處了？", "tags": ["反制","諷刺"], "level": "intermediate" },
-        { "id": "roast-06", "en": "What's that supposed to mean?", "zh": "你這是什麼意思？", "tags": ["反制","質疑"], "level": "intermediate" },
-        { "id": "roast-07", "en": "Where are your manners?", "zh": "你禮貌嗎？", "tags": ["反制","譴責"], "level": "intermediate" },
-        { "id": "roast-08", "en": "Who made you the boss?", "zh": "你說了算？你算哪根蔥？", "tags": ["反制","強硬"], "level": "intermediate" },
-        { "id": "roast-09", "en": "You better think carefully.", "zh": "你最好想清楚。", "tags": ["反制","威脅"], "level": "intermediate" },
-        { "id": "roast-10", "en": "I'm not doing this with you.", "zh": "我沒空陪你鬧。", "tags": ["反制","冷漠"], "level": "intermediate" },
-        { "id": "roast-11", "en": "Do I owe you something?", "zh": "我欠你的嗎？", "tags": ["反制","強硬"], "level": "intermediate" },
-        { "id": "roast-12", "en": "Who are you trying to impress?", "zh": "裝什麼裝？演給誰看？", "tags": ["反制","諷刺"], "level": "intermediate" },
-        { "id": "roast-13", "en": "Don't touch me!", "zh": "別碰我！", "tags": ["反制","身體"], "level": "beginner" },
-        { "id": "roast-14", "en": "You think you're slick?", "zh": "你以為你耍小聰明沒人看出來？", "tags": ["反制","諷刺"], "level": "intermediate" },
-        { "id": "roast-15", "en": "You're playing with fire.", "zh": "你在玩火。", "tags": ["反制","威脅"], "level": "intermediate" },
-        { "id": "roast-16", "en": "Go ahead, make my day.", "zh": "有種你就試試看。", "tags": ["反制","挑釁"], "level": "advanced" },
-        { "id": "roast-17", "en": "And you think you matter?", "zh": "你算哪根蔥？", "tags": ["反制","蔑視"], "level": "advanced" },
-        { "id": "roast-18", "en": "Don't say I didn't warn you.", "zh": "我話先說在前頭。", "tags": ["反制","威脅"], "level": "intermediate" },
-        { "id": "roast-19", "en": "Let's keep it professional.", "zh": "公事公辦。", "tags": ["反制","職場"], "level": "intermediate" }
+        {
+          "id": "roast-01",
+          "en": "Or what?",
+          "zh": "不然你想怎樣？",
+          "tags": [
+            "反制",
+            "挑釁"
+          ],
+          "level": "beginner",
+          "context": "挑釁與反制力道 100% 的神句！當對方威脅你時，你完全不服軟，直接回嗆「有種你就放馬過來」。"
+        },
+        {
+          "id": "roast-02",
+          "en": "That's the best you got?",
+          "zh": "你就這點本事？",
+          "tags": [
+            "反制",
+            "蔑視"
+          ],
+          "level": "intermediate",
+          "context": "充滿蔑視的反擊句。不論是對方在職場上用弱小的論點攻擊你，還是使出渾身解數想打擊你時，你毫髮無傷地丟出這句話。"
+        },
+        {
+          "id": "roast-03",
+          "en": "And I should care because...?",
+          "zh": "我為什麼要在乎？",
+          "tags": [
+            "反制",
+            "蔑視"
+          ],
+          "level": "intermediate",
+          "context": "當對方一臉威脅地告訴你一個消息，但那個消息對你而言根本毫無意義時使用。"
+        },
+        {
+          "id": "roast-04",
+          "en": "For who?",
+          "zh": "給誰？對誰而言？",
+          "tags": [
+            "反制",
+            "質疑"
+          ],
+          "level": "beginner",
+          "context": "當對方丟出一個以偏概全的結論，你立刻丟出這兩個字，暗示「這對你可能成立，但對我來說根本不是這回事」。"
+        },
+        {
+          "id": "roast-05",
+          "en": "Did I hit a nerve?",
+          "zh": "你急了？我戳到痛處了？",
+          "tags": [
+            "反制",
+            "諷刺"
+          ],
+          "level": "intermediate",
+          "context": "當你說了一句話，對方突然情緒失控、惱羞成怒、大發雷霆時，你用這句話精準嘲諷，暗示對方被戳中要害。"
+        },
+        {
+          "id": "roast-06",
+          "en": "What's that supposed to mean?",
+          "zh": "你這是什麼意思？",
+          "tags": [
+            "反制",
+            "質疑"
+          ],
+          "level": "intermediate",
+          "context": "當對方說了一句帶有暗示性、酸溜溜的話，你聽出他語帶諷刺，立刻用這句反問，逼對方把潛台詞講清楚。"
+        },
+        {
+          "id": "roast-07",
+          "en": "Where are your manners?",
+          "zh": "你禮貌嗎？",
+          "tags": [
+            "反制",
+            "譴責"
+          ],
+          "level": "intermediate",
+          "context": "當對方的舉止、發問或行為極其粗魯、不敬、或毫無分寸時，用這句話站在道德高地上義正言辭地質問、譴責對方。"
+        },
+        {
+          "id": "roast-08",
+          "en": "Who made you the boss?",
+          "zh": "你說了算？你算哪根蔥？",
+          "tags": [
+            "反制",
+            "強硬"
+          ],
+          "level": "intermediate",
+          "context": "當某個跟你平級、甚至根本不相干的人開始對你指手畫腳、擺出高高在上的姿態時，用這句話狠狠地駁回他的越權行為。"
+        },
+        {
+          "id": "roast-09",
+          "en": "You better think carefully.",
+          "zh": "你最好想清楚。",
+          "tags": [
+            "反制",
+            "威脅"
+          ],
+          "level": "intermediate",
+          "context": "帶有強烈威脅與警告色彩的句子。通常在你掌握了主導權、或是對方即將做出一個會帶來嚴重後果的錯誤決定時，冷冷地給予最後警告。"
+        },
+        {
+          "id": "roast-10",
+          "en": "I'm not doing this with you.",
+          "zh": "我沒空陪你鬧。",
+          "tags": [
+            "反制",
+            "冷漠"
+          ],
+          "level": "intermediate",
+          "context": "冷漠度爆表。當對方試圖跟你無理取鬧、吵架、翻舊帳或是糾纏不清時，你甩出這句話，代表你「拒絕加入這場鬧劇」，轉身就走。"
+        },
+        {
+          "id": "roast-11",
+          "en": "Do I owe you something?",
+          "zh": "我欠你的嗎？",
+          "tags": [
+            "反制",
+            "強硬"
+          ],
+          "level": "intermediate",
+          "context": "當對方擺出一副理所當然的姿態向你索要東西、指使你做事、或是對你態度惡劣時，用這句話強烈回擊。"
+        },
+        {
+          "id": "roast-12",
+          "en": "Who are you trying to impress?",
+          "zh": "裝什麼裝？演給誰看？",
+          "tags": [
+            "反制",
+            "諷刺"
+          ],
+          "level": "intermediate",
+          "context": "當對方在您面前故意炫耀、吹牛、或者是行為舉止極度做作、虛偽，試圖博取某些人的注意或好感時，用這句話無情拆穿對方的「裝腔作勢」。"
+        },
+        {
+          "id": "roast-13",
+          "en": "Don't touch me!",
+          "zh": "別碰我！",
+          "tags": [
+            "反制",
+            "身體"
+          ],
+          "level": "beginner",
+          "context": "最直接、強烈且毫無商量餘地的身體防線警告。當對方已經動手拉扯你、碰觸你，或者試圖對你動手動腳時，厲聲喝止。"
+        },
+        {
+          "id": "roast-14",
+          "en": "You think you're slick?",
+          "zh": "你以為你耍小聰明沒人看出來？",
+          "tags": [
+            "反制",
+            "諷刺"
+          ],
+          "level": "intermediate",
+          "context": "`slick` 在口語中指人「油腔滑調、狡猾、愛耍小聰明」。當對方試圖在背後搞小動作、鑽空子佔你便宜，而被你當場抓包時使用。"
+        },
+        {
+          "id": "roast-15",
+          "en": "You're playing with fire.",
+          "zh": "你在玩火。",
+          "tags": [
+            "反制",
+            "威脅"
+          ],
+          "level": "intermediate",
+          "context": "極具威脅感的警告神句。當對方的挑釁行為、危險舉動已經快要觸及你的終極底線，給予他最嚴厲的警告。"
+        },
+        {
+          "id": "roast-16",
+          "en": "Go ahead, make my day.",
+          "zh": "有種你就試試看。",
+          "tags": [
+            "反制",
+            "挑釁"
+          ],
+          "level": "advanced",
+          "context": "好萊塢史詩級的「硬漢回嗆神句」！當對方拿某件事威脅你，你不僅毫不畏懼，反而帶著冷酷的自信微笑對他放話，暗示「老子早就等很久了，你只要敢動手，正好給了我徹底收拾你的完美理由」。"
+        },
+        {
+          "id": "roast-17",
+          "en": "And you think you matter?",
+          "zh": "你算哪根蔥？",
+          "tags": [
+            "反制",
+            "蔑視"
+          ],
+          "level": "advanced",
+          "context": "降維打擊、傷害力極高的終極蔑視句。當對方擺出一副高高在上的評判者姿態、或者試圖對你的決定指手畫腳時使用。"
+        },
+        {
+          "id": "roast-18",
+          "en": "Don't say I didn't warn you.",
+          "zh": "我話先說在前頭。",
+          "tags": [
+            "反制",
+            "威脅"
+          ],
+          "level": "intermediate",
+          "context": "當你已經好心勸阻對方不要去做某件愚蠢或危險的事，而對方一意孤行、完全聽不進去時，你冷冷地丟下這句話。"
+        },
+        {
+          "id": "roast-19",
+          "en": "Let's keep it professional.",
+          "zh": "公事公辦。",
+          "tags": [
+            "反制",
+            "職場"
+          ],
+          "level": "intermediate",
+          "context": "職場神級安全氣囊！當同事在開會時情緒失控、開始進行人身攻擊、翻舊帳時，你可以用這句話義正言辭地打斷對方。"
+        }
       ]
     },
     {
@@ -109,13 +669,83 @@
       "title": "強烈拒絕",
       "subtitle": "狠潑冷水 / 想都別想",
       "phrases": [
-        { "id": "hardno-01", "en": "You wish.", "zh": "想得美。", "tags": ["拒絕","嗆人"], "level": "beginner" },
-        { "id": "hardno-02", "en": "Nice try.", "zh": "少來這套。", "tags": ["拒絕","嗆人"], "level": "beginner" },
-        { "id": "hardno-03", "en": "In your dreams.", "zh": "做夢去吧。", "tags": ["拒絕","嗆人"], "level": "beginner" },
-        { "id": "hardno-04", "en": "Yeah, right.", "zh": "才信你咧。", "tags": ["拒絕","諷刺"], "level": "beginner" },
-        { "id": "hardno-05", "en": "Not a chance.", "zh": "絕不可能。", "tags": ["拒絕","強硬"], "level": "beginner" },
-        { "id": "hardno-06", "en": "Good luck with that.", "zh": "那你慢慢做夢吧。", "tags": ["拒絕","諷刺"], "level": "intermediate" },
-        { "id": "hardno-07", "en": "Not happening.", "zh": "沒門。辦不到。", "tags": ["拒絕","強硬"], "level": "beginner" }
+        {
+          "id": "hardno-01",
+          "en": "You wish.",
+          "zh": "想得美。",
+          "tags": [
+            "拒絕",
+            "嗆人"
+          ],
+          "level": "beginner",
+          "context": "對方提出荒謬要求時，冷冷回嗆打擊對方自信。"
+        },
+        {
+          "id": "hardno-02",
+          "en": "Nice try.",
+          "zh": "少來這套。",
+          "tags": [
+            "拒絕",
+            "嗆人"
+          ],
+          "level": "beginner",
+          "context": "當對方以為能騙過你、或想耍小聰明時識破他。"
+        },
+        {
+          "id": "hardno-03",
+          "en": "In your dreams.",
+          "zh": "做夢去吧。",
+          "tags": [
+            "拒絕",
+            "嗆人"
+          ],
+          "level": "beginner",
+          "context": "對方妄想不切實際的事時，叫他醒醒。"
+        },
+        {
+          "id": "hardno-04",
+          "en": "Yeah, right.",
+          "zh": "才信你咧。",
+          "tags": [
+            "拒絕",
+            "諷刺"
+          ],
+          "level": "beginner",
+          "context": "諷刺性地回應對方明顯誇大或不實的說法。"
+        },
+        {
+          "id": "hardno-05",
+          "en": "Not a chance.",
+          "zh": "絕不可能。",
+          "tags": [
+            "拒絕",
+            "強硬"
+          ],
+          "level": "beginner",
+          "context": "斬釘截鐵地拒絕，毫無商量餘地。"
+        },
+        {
+          "id": "hardno-06",
+          "en": "Good luck with that.",
+          "zh": "那你慢慢做夢吧。",
+          "tags": [
+            "拒絕",
+            "諷刺"
+          ],
+          "level": "intermediate",
+          "context": "對方堅持做蠢事時，酸他「祝你順利」的諷刺版。"
+        },
+        {
+          "id": "hardno-07",
+          "en": "Not happening.",
+          "zh": "沒門。辦不到。",
+          "tags": [
+            "拒絕",
+            "強硬"
+          ],
+          "level": "beginner",
+          "context": "事情絕對不可能發生，比 Not a chance 更口語。"
+        }
       ]
     },
     {
@@ -123,14 +753,93 @@
       "title": "日常社交",
       "subtitle": "約飯 / 逛街 / 生活百搭",
       "phrases": [
-        { "id": "daily-01", "en": "Let's grab something to eat.", "zh": "去吃點東西吧。", "tags": ["約飯","日常"], "level": "beginner" },
-        { "id": "daily-02", "en": "I'm starving.", "zh": "快餓死了。", "tags": ["日常","誇飾"], "level": "beginner" },
-        { "id": "daily-03", "en": "Wait for me.", "zh": "等我。", "tags": ["日常"], "level": "beginner" },
-        { "id": "daily-04", "en": "Hit me up.", "zh": "聯絡我。密我。", "tags": ["日常","口語"], "level": "beginner" },
-        { "id": "daily-05", "en": "I'm just browsing.", "zh": "我只是隨便看看。", "tags": ["購物","日常"], "level": "beginner" },
-        { "id": "daily-06", "en": "I'm just saying.", "zh": "我只是隨口說說。", "tags": ["日常","口語"], "level": "beginner" },
-        { "id": "daily-07", "en": "I saw that coming.", "zh": "我早就料到了。", "tags": ["日常","口語"], "level": "beginner" },
-        { "id": "daily-08", "en": "Believe it or not.", "zh": "信不信由你。", "tags": ["日常","口語"], "level": "beginner" }
+        {
+          "id": "daily-01",
+          "en": "Let's grab something to eat.",
+          "zh": "去吃點東西吧。",
+          "tags": [
+            "約飯",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "約朋友出去吃東西最常用的口語句。"
+        },
+        {
+          "id": "daily-02",
+          "en": "I'm starving.",
+          "zh": "快餓死了。",
+          "tags": [
+            "日常",
+            "誇飾"
+          ],
+          "level": "beginner",
+          "context": "極度飢餓時非常誇張但道地的說法。"
+        },
+        {
+          "id": "daily-03",
+          "en": "Wait for me.",
+          "zh": "等我。",
+          "tags": [
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "要別人等一下你的萬用句。"
+        },
+        {
+          "id": "daily-04",
+          "en": "Hit me up.",
+          "zh": "聯絡我。密我。",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "beginner",
+          "context": "叫對方發訊息聯絡你，非常口語。"
+        },
+        {
+          "id": "daily-05",
+          "en": "I'm just browsing.",
+          "zh": "我只是隨便看看。",
+          "tags": [
+            "購物",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "店員問你要什麼時表示隨便看看。"
+        },
+        {
+          "id": "daily-06",
+          "en": "I'm just saying.",
+          "zh": "我只是隨口說說。",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "beginner",
+          "context": "說完一句話後怕對方當真時趕快補這句。"
+        },
+        {
+          "id": "daily-07",
+          "en": "I saw that coming.",
+          "zh": "我早就料到了。",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "beginner",
+          "context": "事情果然如預期發展時用來表示早知道了。"
+        },
+        {
+          "id": "daily-08",
+          "en": "Believe it or not.",
+          "zh": "信不信由你。",
+          "tags": [
+            "日常",
+            "口語"
+          ],
+          "level": "beginner",
+          "context": "講了一件難以置信的事時加上這句。"
+        }
       ]
     },
     {
@@ -138,10 +847,50 @@
       "title": "趣味疊字",
       "subtitle": "輕鬆好玩的英文疊詞",
       "phrases": [
-        { "id": "fun-01", "en": "Chit-chat.", "zh": "閒聊。", "tags": ["趣味","日常"], "level": "beginner" },
-        { "id": "fun-02", "en": "Mumbo-jumbo.", "zh": "胡說八道。", "tags": ["趣味","嗆人"], "level": "intermediate" },
-        { "id": "fun-03", "en": "Hanky-panky.", "zh": "偷雞摸狗。不正當勾當。", "tags": ["趣味","口語"], "level": "intermediate" },
-        { "id": "fun-04", "en": "Freaky-deaky.", "zh": "怪裡怪氣。", "tags": ["趣味","口語"], "level": "advanced" }
+        {
+          "id": "fun-01",
+          "en": "Chit-chat.",
+          "zh": "閒聊。",
+          "tags": [
+            "趣味",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "輕鬆的閒聊，不是正式對話。"
+        },
+        {
+          "id": "fun-02",
+          "en": "Mumbo-jumbo.",
+          "zh": "胡說八道。",
+          "tags": [
+            "趣味",
+            "嗆人"
+          ],
+          "level": "intermediate",
+          "context": "對方講了一堆聽不懂或沒邏輯的話。"
+        },
+        {
+          "id": "fun-03",
+          "en": "Hanky-panky.",
+          "zh": "偷雞摸狗。不正當勾當。",
+          "tags": [
+            "趣味",
+            "口語"
+          ],
+          "level": "intermediate",
+          "context": "懷疑有人在搞鬼或做不正當的事。"
+        },
+        {
+          "id": "fun-04",
+          "en": "Freaky-deaky.",
+          "zh": "怪裡怪氣。",
+          "tags": [
+            "趣味",
+            "口語"
+          ],
+          "level": "advanced",
+          "context": "形容某人或某事怪異、詭異的感覺。"
+        }
       ]
     },
     {
@@ -149,9 +898,39 @@
       "title": "機會掌握",
       "subtitle": "抓住 / 榨乾機會",
       "phrases": [
-        { "id": "opp-01", "en": "Take the opportunity.", "zh": "抓住機會。", "tags": ["機會","日常"], "level": "beginner" },
-        { "id": "opp-02", "en": "Seize the chance.", "zh": "趕緊抓牢機會。", "tags": ["機會","緊迫"], "level": "intermediate" },
-        { "id": "opp-03", "en": "Make the most of it.", "zh": "榨乾這個機會的價值。", "tags": ["機會","激勵"], "level": "intermediate" }
+        {
+          "id": "opp-01",
+          "en": "Take the opportunity.",
+          "zh": "抓住機會。",
+          "tags": [
+            "機會",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "中性表達：有機會就把握住。"
+        },
+        {
+          "id": "opp-02",
+          "en": "Seize the chance.",
+          "zh": "趕緊抓牢機會。",
+          "tags": [
+            "機會",
+            "緊迫"
+          ],
+          "level": "intermediate",
+          "context": "機會難得，要趕快行動。"
+        },
+        {
+          "id": "opp-03",
+          "en": "Make the most of it.",
+          "zh": "榨乾這個機會的價值。",
+          "tags": [
+            "機會",
+            "激勵"
+          ],
+          "level": "intermediate",
+          "context": "不僅要把握，還要充分利用到極致。"
+        }
       ]
     }
   ]
