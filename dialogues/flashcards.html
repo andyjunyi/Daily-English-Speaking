@@ -636,9 +636,27 @@ function render() {
   main.innerHTML = html;
 }
 
+var currentFlipped = null;
+
 function flipCard(id) {
   var el = document.getElementById('card-' + id);
-  if (el) el.classList.toggle('flipped');
+  if (!el) return;
+
+  // If clicking the same card that's already flipped, just close it
+  if (currentFlipped === el) {
+    el.classList.remove('flipped');
+    currentFlipped = null;
+    return;
+  }
+
+  // Close any previously flipped card
+  if (currentFlipped) {
+    currentFlipped.classList.remove('flipped');
+  }
+
+  // Flip the new card
+  el.classList.add('flipped');
+  currentFlipped = el;
 }
 
 // Scroll top
