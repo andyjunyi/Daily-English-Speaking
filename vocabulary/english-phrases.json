@@ -1,9 +1,9 @@
 {
   "meta": {
     "title": "地道英文口語短句 + 美式口語大滿貫",
-    "description": "118 句道地美式口語 — 從佛系隨緣到強烈反制",
-    "version": "2.0.0",
-    "lastUpdated": "2026-05-23"
+    "description": "129 句道地美式口語 — 從佛系隨緣到進階職場反擊",
+    "version": "2.1.0",
+    "lastUpdated": "2026-06-13"
   },
   "categories": [
     {
@@ -445,6 +445,134 @@
           ],
           "level": "advanced",
           "context": "語氣極度不耐煩、具備強烈攻擊性。當你重複說了很多次，對方卻故意裝作沒聽到時使用。"
+        }
+      ]
+    },
+    {
+      "id": "advanced-extra",
+      "title": "🔥 進階補充",
+      "subtitle": "職場質問 / 警告界線 / 霸氣反嗆",
+      "phrases": [
+        {
+          "id": "extra-01",
+          "en": "Who signed off on this?",
+          "zh": "誰同意的？誰批准的？",
+          "tags": [
+            "職場",
+            "質問"
+          ],
+          "level": "intermediate",
+          "context": "發現某個專案、決策出現大問題，追問誰把關核准的。職場必備質疑句。"
+        },
+        {
+          "id": "extra-02",
+          "en": "Who are you speaking for?",
+          "zh": "你替誰說話？",
+          "tags": [
+            "職場",
+            "質問"
+          ],
+          "level": "intermediate",
+          "context": "對方發言明顯偏頗或擅自代表大家時，質疑其立場與代表性。"
+        },
+        {
+          "id": "extra-03",
+          "en": "What exactly are you saying?",
+          "zh": "你到底在說什麼？",
+          "tags": [
+            "質問",
+            "釐清"
+          ],
+          "level": "intermediate",
+          "context": "對方態度曖昧、拐彎抹角時，逼對方把話講清楚，別再打太極拳。"
+        },
+        {
+          "id": "extra-04",
+          "en": "Who even says that?",
+          "zh": "誰會這樣說？哪有人這樣講話？",
+          "tags": [
+            "吐槽",
+            "荒謬"
+          ],
+          "level": "beginner",
+          "context": "對方用奇怪的詞彙或講不合常理的話時，吐槽對方很瞎、很荒謬。"
+        },
+        {
+          "id": "extra-05",
+          "en": "Was that necessary?",
+          "zh": "有必要這樣嗎？",
+          "tags": [
+            "質問",
+            "不滿"
+          ],
+          "level": "intermediate",
+          "context": "對方說太過分的玩笑或做尷尬舉動時，表達不滿與傻眼的質問。"
+        },
+        {
+          "id": "extra-06",
+          "en": "Think before you speak.",
+          "zh": "說話前過過腦子。",
+          "tags": [
+            "警告",
+            "奉勸"
+          ],
+          "level": "intermediate",
+          "context": "警告對方說話三思，不要不經大腦說出傷人或愚蠢的話。類似的還有 Think twice。"
+        },
+        {
+          "id": "extra-07",
+          "en": "Don't give me that nonsense.",
+          "zh": "少跟我扯這些胡說八道。",
+          "tags": [
+            "反駁",
+            "強硬"
+          ],
+          "level": "intermediate",
+          "context": "完全不相信對方說詞，覺得在講廢話時強烈反駁。類似「少來這套」。"
+        },
+        {
+          "id": "extra-08",
+          "en": "Watch your tone!",
+          "zh": "注意你說話的語氣！放尊重點！",
+          "tags": [
+            "警告",
+            "界線"
+          ],
+          "level": "intermediate",
+          "context": "對方說話沒大沒小、口氣粗魯或挑釁時，最強烈直接的警告。"
+        },
+        {
+          "id": "extra-09",
+          "en": "You crossed the line!",
+          "zh": "你越界了！太過分了！",
+          "tags": [
+            "警告",
+            "界線"
+          ],
+          "level": "intermediate",
+          "context": "對方言行超越了社交、道德底線，玩笑開太火或嚴重侵犯隱私時嚴肅反擊。"
+        },
+        {
+          "id": "extra-10",
+          "en": "Don't string me along!",
+          "zh": "別吊著我！別捉弄我！",
+          "tags": [
+            "警告",
+            "感情"
+          ],
+          "level": "intermediate",
+          "context": "對方用虛假希望敷衍拖延，或被當備胎、對方存心不給明確答案時的憤怒質問。"
+        },
+        {
+          "id": "extra-11",
+          "en": "Why bother?",
+          "zh": "何必呢？幹嘛這麼麻煩？",
+          "tags": [
+            "質疑",
+            "日常"
+          ],
+          "level": "beginner",
+          "context": "質疑某個行動的必要性，暗示做了也是白忙，不值得浪費時間精力。"
         }
       ]
     },
